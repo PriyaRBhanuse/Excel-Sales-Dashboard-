@@ -8,8 +8,8 @@ This project involves analyzing clothing sales data using Microsoft Excel and cr
 
 The data analysis process involves the following steps:
 
-    Data Cleaning: Handling missing values, correcting data types, and removing duplicates.
-    Data Aggregation: Summarizing sales data by category, region, and time period.
-    Top Product Analysis: Identifying the best-selling products based on quantity sold and revenue.
-    Regional Analysis: Comparing sales performance across different regions.
+Data Cleaning: Handling missing values, correcting data types, and removing duplicates.
+Data Aggregation: Summarizing sales data by category, region, and time period.
+Top Product Analysis: Identifying the best-selling products based on quantity sold and revenue.
+Regional Analysis: Comparing sales performance across different regions.
 
